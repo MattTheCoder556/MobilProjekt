@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherWorking</string>
+    <string name="bar_title"> Todays Weather</string>
+    <string name="degree">°</string>
+    <string name="hum">Humidity: </string>
+    <string name="press">Pressure: </string>
+    <string name="ws">Wind Speed: </string>
+    <string name="desc1">Cloudy</string>
+    <string name="desc2">Clear</string>
+
+</resources>

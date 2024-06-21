@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bar_title">Napi Időjárás</string>
+    <string name="hum">Páratartalom: </string>
+    <string name="press">Nyomás: </string>
+    <string name="ws">Szélsebesség: </string>
+    <string name="desc1">Felhős</string>
+    <string name="desc2">Tiszta</string>
+</resources>
